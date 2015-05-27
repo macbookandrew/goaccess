@@ -422,7 +422,7 @@ print_html_header (FILE * fp, char *now)
 
   fprintf (fp, "</script>\n");
 
-  fprintf (fp, "<script type=\"text/javascript\" src=\"https://github.com/macbookandrew/blob/add-sortable-tables/src/sorttable.js\">\n");
+  fprintf (fp, "<script type=\"text/javascript\" src=\"https://github.com/macbookandrew/goaccess/blob/add-sortable-tables/src/sorttable.js\">\n");
   fprintf (fp, "</script>\n");
 
   fprintf (fp, "<style type=\"text/css\">");
