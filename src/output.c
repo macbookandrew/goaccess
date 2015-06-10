@@ -422,7 +422,7 @@ print_html_header (FILE * fp, char *now)
 
   fprintf (fp, "</script>\n");
 
-  fprintf (fp, "<script type=\"text/javascript\" src=\"https://cdnjs.cloudflare.com/ajax/libs/sortable/0.6.0/js/sortable.min.js \"></script>\n");
+  fprintf (fp, "<script type=\"text/javascript\" src=\"https://cdnjs.cloudflare.com/ajax/libs/sortable/0.6.0/js/sortable.js\"></script>\n");
 
   fprintf (fp, "<style type=\"text/css\">");
   fprintf (fp,
